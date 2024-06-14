@@ -12,8 +12,8 @@ global.confirmCode = ""
 
 global.owner = [
   ['212660958030', '👑 DEVLOPPER👑', true],
-  ['212641207087', '💫 MAJNON2 💫', true],
-  ['212705776824', '💫 MAJNON3 💫', true],
+  ['212696262219', '💫 MAJNON2 💫', true],
+  ['212608740306', '💫 MAJNON3 💫', true],
   ['212660958030', '💫 MAJNON4💫', true],
 ];
 
